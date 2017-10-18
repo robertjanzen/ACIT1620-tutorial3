@@ -1,0 +1,23 @@
+#p1Chat {
+    position:fixed;
+    left:10px;
+    top:10px;
+}
+
+#p2Chat {
+    position:fixed;
+    right:10px;
+    top:10px;
+}
+
+#chatDisplay {
+    position:absolute;
+    top:50px;
+    left:0px;
+    width:100vw;
+}
+
+.emoji {
+    height:25px;
+    width:25px;
+}
